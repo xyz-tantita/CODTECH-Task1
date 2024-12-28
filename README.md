@@ -1,11 +1,11 @@
-Name:Tanisha Khot
-Company:CODTECH IT SOLUTIONS
-ID:CT08EZR
-Domain:Data Science
-Duration:20 December 2024 to 20 January 2025
+Name: Tanisha Khot
+Company: CODTECH IT SOLUTIONS
+ID: CT08EZR
+Domain: Data Science
+Duration: 20 December 2024 to 20 January 2025
 
 OVERVIEW of Project:
-Project:Exploratory data Analysis on Titanic Dataset
+Project: Exploratory data Analysis on Titanic Dataset
 
 Objective:
        The objective of this project is to perform Exploratory Data Analysis (EDA) on a Titanic dataset to uncover insights into the data's characteristics, distributions, correlations, and outliers. Key aspects include exploring demographic trends (e.g., age, gender), socio-economic indicators (e.g., class and fare), and survival outcomes. This analysis aims to provide a deeper understanding of the factors influencing passenger survival and any notable patterns or anomalies in the data.

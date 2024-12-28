@@ -22,7 +22,7 @@ Key Activites:
      6. Distribution Insights: Histograms highlighted passenger age trends, with many aged between 20-30.
 
  Technologies Used:
-     1. Python:The primary programming language for data analysis
+     1. Python: The primary programming language for data analysis
      2. Pandas: Explored critical features like Survived, Pclass, Age, Sex, and Fare.
      3. NumPy: Played a key role in numerical operations and addressing missing values, especially in the Age column.
      4. Seaborn & Matplotlib: Helped craft insightful visualizations to better understand the data.

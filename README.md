@@ -1,10 +1,10 @@
 # CODTECH-Task1
 
-**Name:** Tanisha Mahendra Khot
-**Company:** CODTECH IT SOLUTIONS  
-**ID:** CT08EZR
-**Domain:** Data Science  
-**Duration:** 20 December 2024 to 20 January 2025 
+**Name:** Tanisha Mahendra Khot  
+**Company:** CODTECH IT SOLUTIONS    
+**ID:** CT08EZR  
+**Domain:** Data Science    
+**Duration:** 20 December 2024 to 20 January 2025   
 
 
 ---

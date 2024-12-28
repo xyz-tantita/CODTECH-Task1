@@ -68,6 +68,8 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on a
    - Outliers in the Fare column were identified, providing deeper insight into atypical passenger cases.
 
 ---
+![historgram](https://github.com/user-attachments/assets/afebb866-691b-4824-a85b-df478bd4d098)
+
 
 ## Conclusion:
 In conclusion, this EDA project provided valuable insights into the Titanic dataset, revealing significant survival patterns such as higher chances for females and first-class passengers, as well as the impact of fare and embarkation points. Through data cleaning, visualization, and analysis, the project enhanced my skills in uncovering trends and presenting data-driven findings effectively.

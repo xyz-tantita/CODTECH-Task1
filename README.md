@@ -1,5 +1,4 @@
 # CODTECH-Task1
-# CODTECH-Task1
 
 *Name:* Tanisha Mahendra Khot
 *Company:* CODTECH IT SOLUTIONS  

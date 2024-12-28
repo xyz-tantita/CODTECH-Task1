@@ -69,6 +69,9 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on a
 
 ---
 ![historgram](https://github.com/user-attachments/assets/afebb866-691b-4824-a85b-df478bd4d098)
+![Fare-AGE](https://github.com/user-attachments/assets/43c360bf-4574-442d-b628-8b7dd0220301)
+
+
 
 
 ## Conclusion:
